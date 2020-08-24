@@ -2,7 +2,8 @@
 
 
 ### Introduction <br />
-RShell is a program made to replicate the linux command shell. It takes in an unlimted amount commands, logical connectors, and flasgs, from the usual Bash, and executes them. It was implemented using composite design pattern in s multistep process.
+RShell is a program made to replicate the linux command shell. It takes in an unlimted amount commands, logical connectors, and flasgs, from the usual Bash, and executes them. 
+It was implemented using composite design pattern in a multistep process.
 
 
 ### UML Diagram  
