@@ -1,0 +1,71 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+*.pc
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake Temp Files
+ CMakeCache.txt
+ CMakeFiles
+ cmake_install
+ 
+
+####################################
+ 
+# Make Files
+  Makefile
+ 
+ 
+# Tests
+  parsing_integration_test
+  parsing_unit_test
+  test
+  
+# Rshell
+  rshell
+ 
+# Prototype Files
+prototype/cmake_install.cmake
+prototype/Makefile
+prototype/main
+prototype/parser
+prototype/CMakeCache.txt
+prototype/CMakeFiles
+prototype/CMakeLists.txt
+
+# SRC Files
+src/cmake_install.cmake
+src/Makefile
+src/rshell
+src/CMakeCache.txt
+src/CMakeFiles
+src/CMakeLists.txt
+

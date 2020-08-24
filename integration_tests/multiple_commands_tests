@@ -1,0 +1,23 @@
+echo A && echo B 
+echo "----------------"
+echo A && echo B && echo C
+echo "----------------"
+echo A || echo B
+echo "----------------"
+echo A || echo B || echo C
+echo "----------------"
+echo A ; echo B
+echo "----------------"
+echo A  ; echo B; echo C
+echo "----------------"
+echo A && ls
+echo "----------------"
+echo A || echo B && echo C
+echo "----------------"
+echo A || echo B ; echo C
+echo "----------------"
+echo A ; echo B && echo C 
+echo "----------------"
+echo A && ls -a && echo B
+echo "----------------"
+exit

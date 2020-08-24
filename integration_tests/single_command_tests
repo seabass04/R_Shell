@@ -1,0 +1,19 @@
+echo B	
+echo "----------------"
+echo A#B
+echo "----------------"
+echo "A && echo B"
+echo "----------------"
+echo "A and B # with C"
+echo "----------------"
+ls
+echo "----------------"
+ls -a
+echo "----------------"
+ls -r 
+echo "----------------"
+pwd 
+echo "----------------"
+git status
+echo "----------------"
+exit

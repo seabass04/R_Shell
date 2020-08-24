@@ -1,0 +1,13 @@
+echo This
+echo "----------------"
+echo should
+echo "----------------"
+echo print
+echo "----------------"
+exit
+echo This
+echo "----------------"
+echo should
+echo "----------------"
+echo not
+echo "----------------" 
