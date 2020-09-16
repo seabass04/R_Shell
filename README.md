@@ -1,6 +1,6 @@
 # RShell
 
-> Copy of original repository for privacy reason
+> This is a copy of the original repository for privacy reason
 ### Introduction <br />
 RShell is a program made to replicate the linux command shell. It takes in an unlimted amount commands, logical connectors, and flasgs, from the usual Bash, and executes them. 
 It was implemented using composite design pattern in a multistep process.
